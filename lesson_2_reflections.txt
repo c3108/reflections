@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+A new .git file is created.  No files added, need a .git to store history
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Only add one change to staging area.  Check with git diff that there is only 1 change
